@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="videoPlayer_ffmpeg_sdl" targetName="videoPlayer_ffmpeg_sdl" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab988239-af46-48e8-8e90-f7f5436e8f7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1glc0WvCYpViNT2FFJGRUMyQ3rW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="videoPlayer_ffmpeg_sdl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="videoPlayer_ffmpeg_sdl" TARGET_NAME="videoPlayer_ffmpeg_sdl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="videoPlayer_ffmpeg_sdl" RUN_TARGET_NAME="videoPlayer_ffmpeg_sdl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab988239-af46-48e8-8e90-f7f5436e8f7a" name="Default Changelist" comment="" />
+      <created>1598692396957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598692396957</updated>
+      <workItem from="1598692400021" duration="2692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2429" height="442" key="GridCell.Tab.0.bottom" timestamp="1598695102765">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.0.bottom/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102765" />
+    <state width="2429" height="442" key="GridCell.Tab.0.center" timestamp="1598695102763">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.0.center/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102763" />
+    <state width="2429" height="442" key="GridCell.Tab.0.left" timestamp="1598695102763">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.0.left/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102763" />
+    <state width="2429" height="442" key="GridCell.Tab.0.right" timestamp="1598695102764">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.0.right/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102764" />
+    <state width="2429" height="442" key="GridCell.Tab.1.bottom" timestamp="1598695102767">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.1.bottom/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102767" />
+    <state width="2429" height="442" key="GridCell.Tab.1.center" timestamp="1598695102767">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.1.center/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102767" />
+    <state width="2429" height="442" key="GridCell.Tab.1.left" timestamp="1598695102766">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.1.left/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102766" />
+    <state width="2429" height="442" key="GridCell.Tab.1.right" timestamp="1598695102767">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state width="2429" height="442" key="GridCell.Tab.1.right/67.34.2493.1406@67.34.2493.1406" timestamp="1598695102767" />
+    <state x="671" y="283" width="1284" height="907" key="SettingsEditor" timestamp="1598694140936">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="671" y="283" width="1284" height="907" key="SettingsEditor/67.34.2493.1406@67.34.2493.1406" timestamp="1598694140936" />
+    <state x="878" y="161" width="870" height="1149" key="find.popup" timestamp="1598692875162">
+      <screen x="67" y="34" width="2493" height="1406" />
+    </state>
+    <state x="878" y="161" width="870" height="1149" key="find.popup/67.34.2493.1406@67.34.2493.1406" timestamp="1598692875162" />
+  </component>
+</project>
